@@ -109,12 +109,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senjohn007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3ABFEF&icon_color=3ABFEF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senjohn007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABFEF&text_color=C9D1D9" alt="Top Languages" />
+  <a href="https://github.com/Senjohn007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senjohn007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3ABFEF&icon_color=3ABFEF&text_color=C9D1D9" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Senjohn007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senjohn007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABFEF&text_color=C9D1D9" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Senjohn007&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ABFEF&ring=3ABFEF&fire=FFB86C&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <a href="https://github.com/Senjohn007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Senjohn007&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ABFEF&ring=3ABFEF&fire=FFB86C&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -122,7 +128,9 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Senjohn007&theme=react-dark&bg_color=0D1117&color=3ABFEF&line=6A5ACD&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/Senjohn007">
+    <img src="https://ghchart.rshah.org/3ABFEF/Senjohn007" alt="GitHub Contribution Graph" />
+  </a>
 </div>
 
 <div align="center">
@@ -134,7 +142,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Senjohn007&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  <a href="https://github.com/Senjohn007">
+    <img src="https://github-profile-trophy.vercel.app/?username=Senjohn007&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <div align="center">
@@ -146,40 +156,23 @@
 ## 👥 Connect With Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://www.linkedin.com/in/senuja-masinghe-55891b36b/">
-          <img src="https://techstack-generator.vercel.app/linkdown-icon.svg" alt="LinkedIn" width="65" height="65" />
-        </a>
-        <br>LinkedIn
-      </td>
-      <td align="center" width="96">
-        <a href="https://github.com/Senjohn007">
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        </a>
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <a href="https://twitter.com/senujamasinghe">
-          <img src="https://techstack-generator.vercel.app/twitter-icon.svg" alt="Twitter" width="65" height="65" />
-        </a>
-        <br>Twitter
-      </td>
-      <td align="center" width="96">
-        <a href="mailto:senujamasinghe@gmail.com">
-          <img src="https://techstack-generator.vercel.app/gmail-icon.svg" alt="Email" width="65" height="65" />
-        </a>
-        <br>Email
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.kaggle.com/senujamasinghe">
-          <img src="https://techstack-generator.vercel.app/kaggle-icon.svg" alt="Kaggle" width="65" height="65" />
-        </a>
-        <br>Kaggle
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/senuja-masinghe-55891b36b/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Senjohn007">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://twitter.com/senujamasinghe">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:senujamasinghe@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.kaggle.com/senujamasinghe">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+  </p>
 </div>
 
 <div align="center">
