@@ -95,12 +95,12 @@
 
 <div align="center">
 
-| Project | Description |
-| ------ | ----------- |
-| [Sales Performance Dashboard](https://github.com/Senjohn007/Sales-Performance-Dashboard) | Power BI dashboard for sales performance and business insights. |
-| [Customer Segmentation](https://github.com/Senjohn007/Customer-Segmentation) | Data-driven customer grouping using clustering and RFM analysis. |
-| [Cashback Calculation System](https://github.com/Senjohn007/Cashback-Calculation-System) | Automated cashback calculation logic for transactional datasets. |
-| [Data Warehouse Concepts](https://github.com/Senjohn007/Data-Warehouse-Concepts) | Hands-on implementation of data warehousing and OLAP ideas. |
+| Project | Description | Tech Stack |
+| ------ | ----------- | --------- |
+| [Sales Performance Dashboard](https://github.com/Senjohn007/Sales-Performance-Dashboard) | Interactive Power BI dashboard with KPI tracking, trend analysis, and regional comparisons. | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/DAX-FF8C00?style=flat-square" alt="DAX" /> |
+| [Customer Segmentation](https://github.com/Senjohn007/Customer-Segmentation) | Advanced clustering using K-means and hierarchical methods with RFM analysis for targeted marketing. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /> |
+| [Cashback Calculation System](https://github.com/Senjohn007/Cashback-Calculation-System) | Automated system for calculating customer cashback based on transaction patterns and loyalty tiers. | <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> |
+| [Data Warehouse Concepts](https://github.com/Senjohn007/Data-Warehouse-Concepts) | Implementation of star schema, fact tables, and dimension tables with OLAP cube operations. | <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> |
 
 </div>
 
@@ -109,9 +109,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Senjohn007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  <img src="https://img.shields.io/badge/Commits-Active%20Contributor-3ABFEF?style=for-the-badge" alt="Commits" />
-  <img src="https://img.shields.io/badge/Repositories-Public%20%26%20Private-6A5ACD?style=for-the-badge" alt="Repositories" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senjohn007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3ABFEF&icon_color=3ABFEF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senjohn007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABFEF&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Senjohn007&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ABFEF&ring=3ABFEF&fire=FFB86C&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 ---
@@ -119,7 +122,11 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <p>Explore my contribution history and activity directly on my <a href="https://github.com/Senjohn007">GitHub profile</a>.</p>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Senjohn007&theme=react-dark&bg_color=0D1117&color=3ABFEF&line=6A5ACD&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <p>Check out my <a href="https://github.com/Senjohn007">GitHub profile</a> for detailed contribution history.</p>
 </div>
 
 ---
@@ -127,12 +134,53 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <p>Achievements and highlights are visible on my <a href="https://github.com/Senjohn007?tab=repositories">repositories</a> and contribution graph.</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Senjohn007&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <p>Explore my <a href="https://github.com/Senjohn007?tab=repositories">repositories</a> to see more of my work and achievements.</p>
 </div>
 
 ---
 
 ## 👥 Connect With Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.linkedin.com/in/senuja-masinghe-55891b36b/">
+          <img src="https://techstack-generator.vercel.app/linkdown-icon.svg" alt="LinkedIn" width="65" height="65" />
+        </a>
+        <br>LinkedIn
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/Senjohn007">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        </a>
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <a href="https://twitter.com/senujamasinghe">
+          <img src="https://techstack-generator.vercel.app/twitter-icon.svg" alt="Twitter" width="65" height="65" />
+        </a>
+        <br>Twitter
+      </td>
+      <td align="center" width="96">
+        <a href="mailto:senujamasinghe@gmail.com">
+          <img src="https://techstack-generator.vercel.app/gmail-icon.svg" alt="Email" width="65" height="65" />
+        </a>
+        <br>Email
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.kaggle.com/senujamasinghe">
+          <img src="https://techstack-generator.vercel.app/kaggle-icon.svg" alt="Kaggle" width="65" height="65" />
+        </a>
+        <br>Kaggle
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Senjohn007.Senjohn007" alt="Visitors" />
