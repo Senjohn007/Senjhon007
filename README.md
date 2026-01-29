@@ -46,9 +46,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <a href="https://github.com/Senjohn007/Customer-Segmentation">
-        <img src="https://img.shields.io/badge/Featured%20Project-Customer%20Segmentation-3ABFEF?style=for-the-badge&logo=github&logoColor=white" alt="Customer Segmentation" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Customer-Segmentation&theme=tokyonight&show_owner=true" width="100%" />
     </td>
   </tr>
 </table>
@@ -94,14 +92,32 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-
-| Project | Description | Tech Stack |
-| ------ | ----------- | --------- |
-| [Sales Performance Dashboard](https://github.com/Senjohn007/Sales-Performance-Dashboard) | Interactive Power BI dashboard with KPI tracking, trend analysis, and regional comparisons. | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/DAX-FF8C00?style=flat-square" alt="DAX" /> |
-| [Customer Segmentation](https://github.com/Senjohn007/Customer-Segmentation) | Advanced clustering using K-means and hierarchical methods with RFM analysis for targeted marketing. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /> |
-| [Cashback Calculation System](https://github.com/Senjohn007/Cashback-Calculation-System) | Automated system for calculating customer cashback based on transaction patterns and loyalty tiers. | <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> |
-| [Data Warehouse Concepts](https://github.com/Senjohn007/Data-Warehouse-Concepts) | Implementation of star schema, fact tables, and dimension tables with OLAP cube operations. | <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> |
-
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/Senjohn007/Sales-Performance-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Sales-Performance-Dashboard&theme=tokyonight&show_owner=true" alt="Sales Performance Dashboard" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Senjohn007/Customer-Segmentation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Customer-Segmentation&theme=tokyonight&show_owner=true" alt="Customer Segmentation" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Senjohn007/Cashback-Calculation-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Cashback-Calculation-System&theme=tokyonight&show_owner=true" alt="Cashback Calculation System" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Senjohn007/Data-Warehouse-Concepts">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Data-Warehouse-Concepts&theme=tokyonight&show_owner=true" alt="Data Warehouse Concepts" />
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -109,18 +125,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Senjohn007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senjohn007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3ABFEF&icon_color=3ABFEF&text_color=C9D1D9" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Senjohn007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senjohn007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABFEF&text_color=C9D1D9" alt="Top Languages" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=Senjohn007&show_icons=true&theme=tokyonight&hide_border=true&title_color=3ABFEF&icon_color=3ABFEF&bg_color=0D1117&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senjohn007&layout=compact&theme=tokyonight&hide_border=true&title_color=3ABFEF&bg_color=0D1117" height="170" />
 </div>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Senjohn007&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" width="100%" />
+</p>
+
+<!-- Activity Graph -->
 <div align="center">
-  <a href="https://github.com/Senjohn007">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Senjohn007&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ABFEF&ring=3ABFEF&fire=FFB86C&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-  </a>
+<img src="https://activity-graph.herokuapp.com/graph?username=Senjohn007&bg_color=0D1117&color=3ABFEF&line=6A5ACD&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -128,13 +143,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <a href="https://github.com/Senjohn007">
-    <img src="https://ghchart.rshah.org/3ABFEF/Senjohn007" alt="GitHub Contribution Graph" />
-  </a>
-</div>
-
-<div align="center">
-  <p>Check out my <a href="https://github.com/Senjohn007">GitHub profile</a> for detailed contribution history.</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senjohn007&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -142,13 +151,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/Senjohn007">
-    <img src="https://github-profile-trophy.vercel.app/?username=Senjohn007&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<div align="center">
-  <p>Explore my <a href="https://github.com/Senjohn007?tab=repositories">repositories</a> to see more of my work and achievements.</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Senjohn007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
 </div>
 
 ---
