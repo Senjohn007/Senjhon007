@@ -45,8 +45,9 @@
       </p>
     </td>
     <td width="40%" align="center">
+      <!-- Static banner instead of pin card -->
       <a href="https://github.com/Senjohn007/Customer-Segmentation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Customer-Segmentation&theme=tokyonight&show_owner=true" width="100%" alt="Customer Segmentation" />
+        <img src="https://img.shields.io/badge/Project-Customer%20Segmentation-3ABFEF?style=for-the-badge&logo=github&logoColor=white" alt="Customer Segmentation" />
       </a>
     </td>
   </tr>
@@ -93,32 +94,14 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Senjohn007/Sales-Performance-Dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Sales-Performance-Dashboard&theme=tokyonight&show_owner=true" alt="Sales Performance Dashboard" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Senjohn007/Customer-Segmentation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Customer-Segmentation&theme=tokyonight&show_owner=true" alt="Customer Segmentation" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Senjohn007/Cashback-Calculation-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Cashback-Calculation-System&theme=tokyonight&show_owner=true" alt="Cashback Calculation System" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Senjohn007/Data-Warehouse-Concepts">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Data-Warehouse-Concepts&theme=tokyonight&show_owner=true" alt="Data Warehouse Concepts" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+| Project | Description |
+| ------ | ----------- |
+| [Sales Performance Dashboard](https://github.com/Senjohn007/Sales-Performance-Dashboard) | Power BI dashboard for sales performance and business insights. |
+| [Customer Segmentation](https://github.com/Senjohn007/Customer-Segmentation) | Data-driven customer grouping using clustering and RFM analysis. |
+| [Cashback Calculation System](https://github.com/Senjohn007/Cashback-Calculation-System) | Automated cashback calculation logic for transactional datasets. |
+| [Data Warehouse Concepts](https://github.com/Senjohn007/Data-Warehouse-Concepts) | Hands-on implementation of data warehousing and OLAP ideas. |
+
 </div>
 
 ---
@@ -126,26 +109,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Senjohn007&show_icons=true&theme=tokyonight&hide_border=true&title_color=3ABFEF&icon_color=3ABFEF&bg_color=0D1117&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senjohn007&layout=compact&theme=tokyonight&hide_border=true&title_color=3ABFEF&bg_color=0D1117" height="170" alt="Top Languages" />
+  <!-- Simple static badges instead of dynamic cards -->
+  <img src="https://img.shields.io/badge/GitHub-Senjohn007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Commits-Active%20Contributor-3ABFEF?style=for-the-badge" alt="Commits" />
+  <img src="https://img.shields.io/badge/Repositories-Public%20%26%20Private-6A5ACD?style=for-the-badge" alt="Repositories" />
 </div>
-
-<p align="center">
-  <!-- Streak Stats (alternative stable endpoint) -->
-  <img src="https://streak-stats.demolab.com?user=Senjohn007&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" width="100%" alt="GitHub Streak" />
-</p>
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <!-- Activity Graph – using maintained GitHub Readme Activity Graph instance -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senjohn007&bg_color=0D1117&color=3ABFEF&line=6A5ACD&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
-  </a>
+  <p>Explore my contribution history and activity directly on my <a href="https://github.com/Senjohn007">GitHub profile</a>.</p>
 </div>
 
 ---
@@ -153,7 +128,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Senjohn007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
+  <p>Achievements and highlights are visible on my <a href="https://github.com/Senjohn007?tab=repositories">repositories</a> and contribution graph.</p>
 </div>
 
 ---
