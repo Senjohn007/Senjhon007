@@ -1,11 +1,12 @@
 <div align="center">
-  <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ABFEF,100:6A5ACD&height=230&section=header&text=Senuja%20Masinghe&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Undergraduate%20|%20Data%20Analytics%20|%20Business%20Intelligence&descAlignY=55&descSize=18" width="100%" />
+  <!-- Enhanced Header with Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ABFEF,100:6A5ACD&height=250&section=header&text=Senuja%20Masinghe&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20|%20Data%20Analytics%20|%20Business%20Intelligence&descAlignY=55&descSize=20" width="100%" />
 
+  <!-- Spacer -->
   <br/>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate+@+SLIIT;Aspiring+Data+Analyst+%26+Engineer;Power+BI+%7C+SQL+%7C+Python+%7C+R;Turning+Data+into+Business+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate+@+SLIIT;Aspiring+Data+Analyst+%26+Engineer;Power+BI+%7C+SQL+%7C+Python+%7C+R;Turning+Data+into+Business+Insights" alt="Typing SVG" />
   
   <!-- Social Links -->
   <p align="center">
@@ -45,9 +46,8 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <!-- Static banner instead of pin card -->
       <a href="https://github.com/Senjohn007/Customer-Segmentation">
-        <img src="https://img.shields.io/badge/Project-Customer%20Segmentation-3ABFEF?style=for-the-badge&logo=github&logoColor=white" alt="Customer Segmentation" />
+        <img src="https://img.shields.io/badge/Featured%20Project-Customer%20Segmentation-3ABFEF?style=for-the-badge&logo=github&logoColor=white" alt="Customer Segmentation" />
       </a>
     </td>
   </tr>
@@ -109,7 +109,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Simple static badges instead of dynamic cards -->
   <img src="https://img.shields.io/badge/GitHub-Senjohn007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   <img src="https://img.shields.io/badge/Commits-Active%20Contributor-3ABFEF?style=for-the-badge" alt="Commits" />
   <img src="https://img.shields.io/badge/Repositories-Public%20%26%20Private-6A5ACD?style=for-the-badge" alt="Repositories" />
