@@ -1,13 +1,13 @@
 <div align="center">
-  <!-- Enhanced Header with Animation -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:3ABFEF,100:6A5ACD&height=250&section=header&text=Senuja%20Masinghe&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20|%20Data%20Analytics%20|%20Business%20Intelligence&descAlignY=55&descSize=20" width="100%"/>
+  <!-- Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ABFEF,100:6A5ACD&height=230&section=header&text=Senuja%20Masinghe&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Undergraduate%20|%20Data%20Analytics%20|%20Business%20Intelligence&descAlignY=55&descSize=18" width="100%" />
 
   <br/>
 
-  <!-- Enhanced Typing Animation with Gradient -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate+@+SLIIT;Aspiring+Data+Analyst+%26+Engineer;Power+BI+%7C+SQL+%7C+Python+%7C+R;Turning+Data+into+Business+Insights" alt="Typing SVG" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate+@+SLIIT;Aspiring+Data+Analyst+%26+Engineer;Power+BI+%7C+SQL+%7C+Python+%7C+R;Turning+Data+into+Business+Insights" alt="Typing SVG" />
   
-  <!-- Enhanced Social Links with Hover Effects -->
+  <!-- Social Links -->
   <p align="center">
     <a href="https://www.linkedin.com/in/senuja-masinghe-55891b36b/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 Professional Summary
 
-<table border="0">
+<table>
   <tr>
     <td width="60%">
       <p align="left">
@@ -45,7 +45,9 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Customer-Segmentation&theme=tokyonight&show_owner=true" width="100%" />
+      <a href="https://github.com/Senjohn007/Customer-Segmentation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senjohn007&repo=Customer-Segmentation&theme=tokyonight&show_owner=true" width="100%" alt="Customer Segmentation" />
+      </a>
     </td>
   </tr>
 </table>
@@ -124,25 +126,26 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Senjohn007&show_icons=true&theme=tokyonight&hide_border=true&title_color=3ABFEF&icon_color=3ABFEF&bg_color=0D1117&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senjohn007&layout=compact&theme=tokyonight&hide_border=true&title_color=3ABFEF&bg_color=0D1117" height="170" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Senjohn007&show_icons=true&theme=tokyonight&hide_border=true&title_color=3ABFEF&icon_color=3ABFEF&bg_color=0D1117&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senjohn007&layout=compact&theme=tokyonight&hide_border=true&title_color=3ABFEF&bg_color=0D1117" height="170" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Senjohn007&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" width="100%" />
+  <!-- Streak Stats (alternative stable endpoint) -->
+  <img src="https://streak-stats.demolab.com?user=Senjohn007&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" width="100%" alt="GitHub Streak" />
 </p>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Senjohn007&bg_color=0D1117&color=3ABFEF&line=6A5ACD&point=FFFFFF&hide_border=true" width="100%" />
-</div>
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senjohn007&theme=tokyonight&hide_border=true" width="100%" />
+  <!-- Activity Graph – using maintained GitHub Readme Activity Graph instance -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senjohn007&bg_color=0D1117&color=3ABFEF&line=6A5ACD&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
+  </a>
 </div>
 
 ---
@@ -150,7 +153,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Senjohn007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Senjohn007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
